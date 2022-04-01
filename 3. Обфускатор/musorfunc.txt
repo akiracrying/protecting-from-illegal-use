@@ -1,0 +1,28 @@
+void dhfrjllttfss(int hdteyjfygk, int dhdulj)
+{
+	hdteyjfygk = 32367;
+	dhdulj = 0;
+	for (int sydgo = 0; sydgo < 100000; sydgo++)
+	{
+		hdteyjfygk = hdteyjfygk + 1526;
+	}
+
+	while (dhdulj != 2639)
+	{
+		dhdulj++;
+	}
+}
+void jdsryduiugvcfdrdiol (int vhyrsear, int cgzdkjhk)
+{
+	vhyrsear = 32367;
+	cgzdkjhk = 0;
+	for (int sydgo = 0; sydgo < 100000; sydgo++)
+	{
+		vhyrsear = vhyrsear + 1526;
+	}
+
+	while (cgzdkjhk != 2639)
+	{
+		cgzdkjhk++;
+	}
+}
